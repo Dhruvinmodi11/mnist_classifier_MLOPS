@@ -6,7 +6,7 @@ Main entry point for MNIST classifier project.
 This script orchestrates the complete workflow: data loading, 
 model creation, training, evaluation, and visualization.
 """
-
+"""demo"""
 import os
 import argparse
 from pathlib import Path
