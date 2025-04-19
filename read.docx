@@ -3,6 +3,7 @@
 This document outlines the development process and features of the MNIST Digit Classifier project.
 
 ## Initial Goal
+## DM Test
 
 The primary objective was to build a functional Convolutional Neural Network (CNN) using PyTorch to classify handwritten digits from the standard MNIST dataset. This aimed to showcase foundational skills in:
 
